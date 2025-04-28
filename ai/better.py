@@ -1,4 +1,4 @@
-from ai import AI
+from pyrisk.ai import AI
 import random
 import collections
 
